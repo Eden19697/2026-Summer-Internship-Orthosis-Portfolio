@@ -1,0 +1,7 @@
+.claude/
+Raw Data/
+
+# Raw/intermediate scan-repair files (too large for GitHub, kept locally only)
+Digital model repair for orthosis fabrication/157002-体表扫描_original.stl
+Digital model repair for orthosis fabrication/157002-体表扫描_fixed_first.wrp
+Digital model repair for orthosis fabrication/157002_fixed_second.wrp
