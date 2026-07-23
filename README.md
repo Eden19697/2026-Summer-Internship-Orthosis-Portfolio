@@ -1,4 +1,4 @@
-# Black Flame Shanghai Internship
+# 2026 Summer Internship — Orthosis & Prosthesis Portfolio
 
 Orthosis & prosthesis digital modeling work from my internship — 3D scanning, mesh repair, and CAD/Rhino modeling of medical orthoses.
 
@@ -11,7 +11,6 @@ Orthosis & prosthesis digital modeling work from my internship — 3D scanning, 
 - **wrist_orthosis V1** / **wrist_orthosis V2** — Wrist orthosis, two design iterations
 - **Simulated weight_bearing foot and ankle reconstruction** — Foot/ankle reconstruction under simulated weight-bearing, including two-part split versions and merged final
 - **Digital model repair for orthosis fabrication** — Mesh cleanup/repair workflow for scan data used in fabrication (large raw/intermediate files excluded from the repo, see `.gitignore`)
-- **Raw Data** — Original unprocessed scan files
 
 ## Formats
 
