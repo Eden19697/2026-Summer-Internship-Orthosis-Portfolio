@@ -6,5 +6,6 @@ Digital model repair for orthosis fabrication/157002-体表扫描_original.stl
 Digital model repair for orthosis fabrication/157002-体表扫描_fixed_first.wrp
 Digital model repair for orthosis fabrication/157002_fixed_second.wrp
 
-# Large files that failed to push due to unstable network upload speed
+# Files over 50MB are excluded (unstable network upload speed in this environment)
 Ankle Foot Orthosis/V1/右脚足踝——3D Model from Rhino.stl
+Left Knee Orthosis/V2/左膝关节_fixed.stl
